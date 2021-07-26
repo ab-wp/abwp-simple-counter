@@ -2,8 +2,8 @@
 Contributors: abwp, nbuth
 Tags: Yandex, Metrika, statistics, Яндекс, Метрика, статистика, google, analytics, tools, admin
 Requires at least: 3.9
-Tested up to: 5.7
-Stable tag: 1.0.1
+Tested up to: 5.8
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,9 @@ Code counters:
 6. Activate.
 
 == Changelog ==
+
+= 1.0.2 (26 July 2021) =
+* Tested up to WordPress 5.8
 
 = 1.0.1 (10 March 2021) =
 * Tested up to WordPress 5.7

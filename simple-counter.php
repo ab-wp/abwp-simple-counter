@@ -3,13 +3,13 @@
  * Plugin Name: Simple Counter
  * Plugin URI:  https://ab-wp.com/plugins/simple-counter/
  * Description: Simple adding the most common counters to the site in the administrative part of the blog.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      AB-WP
  * Author URI:  https://ab-wp.com/
  * Text Domain: abwp-simple-counter
  * Domain Path: /languages/
  * Requires at least: 3.9
- * Tested up to: 5.7
+ * Tested up to: 5.8
  * License: GPLv2 (or later)
 **/
 if ( !class_exists( 'ABWP_simple_counter' ) ) {
