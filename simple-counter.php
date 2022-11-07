@@ -9,7 +9,7 @@
  * Text Domain: abwp-simple-counter
  * Domain Path: /languages/
  * Requires at least: 3.9
- * Tested up to: 6.0
+ * Tested up to: 6.1
  * License: GPLv2 (or later)
 **/
 if ( !class_exists( 'ABWP_simple_counter' ) ) {
